@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.db
+uploads/
+reports/
+node_modules/
+frontend/dist/
+.env
+*.log
+.DS_Store
